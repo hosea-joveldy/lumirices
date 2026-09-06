@@ -15,6 +15,8 @@ Windows ricing is more limited compared to Linux, but you can still do alot of t
 
 Some says, limited resources opens up the path to a higher level of creativity, so don't let those Linux elitists affect your ricing. I would even say that windows ricing is the best path you can choose for starters, you can feel what ricing is without getting overwhelmed by Linux, just keep in mind that Linux is still more supported and resourced for ricing.
 
+**Update**: I've since migrated to NixOS. Windows ricing was a great part of my ricing journey, it showed me the joy of ricing. Eventually  sought the deeper level of ricing that Linux offers. This repo will cover both eras from now on.👌
+
 Huge shoutout to [SleepyCatHey](https://github.com/SleepyCatHey/) for inspiring me to start ricing.
 
 ## What's inside
