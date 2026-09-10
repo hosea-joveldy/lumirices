@@ -1,4 +1,4 @@
-# Luminus rices
+# lumirices
 ![License](https://img.shields.io/github/license/hosea-joveldy/luminus-rices)
 ![OS](https://img.shields.io/badge/OS-Windows%20%2B%20WSL-90bde0)
 ![Last Commit](https://img.shields.io/github/last-commit/hosea-joveldy/luminus-rices)
